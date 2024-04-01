@@ -1,0 +1,6 @@
+venv/
+frontend/node_modules/*
+weights/*
+models/*
+ocr/
+yolov8m.pt
